@@ -63,7 +63,6 @@ PM & AI Tools:   Jira, Agile/Scrum, Git/GitHub, Claude, Gemini 1.5 Pro, Cursor, 
 
 ## 📫 Connect & Contact
 
-- 💼 **LinkedIn:** [linkedin.com/in/meganbradford](https://linkedin.com/in/meganbradford)
 - 📧 **Email:** [megan@letstalkccs.com](mailto:megan@letstalkccs.com)
 - 🌐 **Portfolio Site:** [letstalkccs.com](https://letstalkccs.com)
 
