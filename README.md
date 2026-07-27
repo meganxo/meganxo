@@ -18,7 +18,7 @@ I am a **Technical Project Manager and AI-Augmented Software Engineer** with a p
 
 - 🛠️ **Engineering Specializations:** Full-Stack Web Architecture, Native iOS Audio/Graphics (Swift, Metal, PencilKit), AI/Agentic Engine Design, and Security-First Infrastructure.
 - 🔒 **Security Standards:** All repositories follow strict **Security First Protocols** — featuring AES-256-GCM authenticated encryption, dynamic vault secret isolation, and YubiKey SSH cryptographic commit signing.
-- ⚡ **AI-Native Velocity:** Expert at orchestrating multi-agent AI workflows (Gemini, Antigravity, AGY, Jules, Copilot) for rapid engineering execution, code audits, and automated test verifications.
+- ⚡ **AI-Native Velocity:** Expert at orchestrating multi-agent AI workflows (Claude, Gemini, Cursor, AGY, Jules) for rapid engineering execution, code audits, and automated test verifications.
 
 ---
 
@@ -34,7 +34,7 @@ Here are 8 curated showcase implementations demonstrating full-stack web, native
 | **`ink_u`** | Swift 5.9, Metal GPU Physics, PencilKit, ARKit | High-fidelity iPadOS tattoo simulator, Metal dermis ink diffusion shaders, Apple Pencil pressure curves, ARKit 3D body placement. | [View Repo](https://github.com/meganbradford/ink_u) |
 | **`TrendFilterApp`** | SwiftUI, CIFilter, Python 3.11 FastAPI, Cloud Run | Cinematic optics & vision engine, vintage lens falloff models, FastAPI ML curve synthesis on Google Cloud Run serverless. | [View Repo](https://github.com/meganxo/trendlab_cam) |
 | **`onesourcewireless`** | React 19, TypeScript, React Router 7, Vitest | Commercial telecom web platform & partner portal, build-time component locking integrity verification script. | [View Repo](https://github.com/meganxo/onesource-wireless) |
-| **`letstalkccs-landing`** | React 19, Cloudflare Pages, Supabase Webhooks | Enterprise consultancy gateway featuring a 7-stage cognitive AI lead triage loop, Supabase Edge Functions, Poison Ivy secret vault isolation. | [View Repo](https://github.com/meganxo/letstalkccs-landing) |
+| **`letstalkccs-landing`** | React 19, Cloudflare Pages, Supabase Webhooks | Enterprise consultancy gateway featuring a 7-stage cognitive AI lead triage loop, Supabase Edge Functions, and vault-isolated secret management. | [View Repo](https://github.com/meganxo/letstalkccs-landing) |
 | **`mxo-build-dashboard`** | React, Node.js, Webhooks | Operational DevOps build tracking dashboard, webhook intake, real-time build telemetry stream. | [View Repo](https://github.com/meganxo/mxo_build_dashboard) |
 
 ---
@@ -48,7 +48,7 @@ Mobile & Audio:  SwiftUI, Metal Compute Shaders, PencilKit, ARKit, AVAudioEngine
 Backend & Cloud: Node.js, FastAPI, Supabase (PGVector, Auth, RLS, Edge Functions), Cloudflare Pages/Functions, Cloud Run, Vercel
 Security:        AES-256-GCM Encryption, YubiKey SSH Commit Signing, HMAC-SHA256, Constant-Time Bitwise Operations
 Testing & CI/CD: Vitest, Playwright, Jest, TestFlight Automated Deployment (xcrun altool)
-PM & AI Tools:   Jira, Agile/Scrum, Git/GitHub, Antigravity, Google Gemini 1.5 Pro, Exa.ai, Continue.dev
+PM & AI Tools:   Jira, Agile/Scrum, Git/GitHub, Claude, Gemini 1.5 Pro, Cursor, AGY, Exa.ai, Continue.dev
 ```
 
 ---
@@ -56,7 +56,7 @@ PM & AI Tools:   Jira, Agile/Scrum, Git/GitHub, Antigravity, Google Gemini 1.5 P
 ## 💡 Engineering & Leadership Philosophy
 
 1. **PM Execution & Engineering Rigor:** Combining clear roadmapping, PR resolution sweeps, and component locking protocols to ensure zero-regression releases.
-2. **Security First Always:** Never hardcode secrets. All deployment credentials are isolated in secure vaults (`~/.gemini/.env`), database queries use parameterized RPC calls, and commits are cryptographically signed with YubiKey SSH keys.
+2. **Security First Always:** Never hardcode secrets. All deployment credentials are isolated in encrypted environment vaults and secure keychains, database queries use parameterized RPC calls, and commits are cryptographically signed with YubiKey SSH keys.
 3. **AI-Augmented Superpowers:** Using multi-agent AI workflows to rapidly prototype, write unit tests, and audit edge cases, while maintaining complete architectural authority and code quality control.
 
 ---
