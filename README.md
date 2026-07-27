@@ -28,24 +28,24 @@ I am a **Founder, Writer, Technical Project Manager, and AI-Augmented Software E
 Here are 8 curated showcase implementations demonstrating full-stack web, native mobile security, AI infrastructure, and commercial software builds:
 
 ### 1. Core IP & Full-Stack Web Architecture
-| Project | Tech Stack | Architectural Highlights | Repository Link |
+| Project | Tech Stack | Architectural Highlights | Live Production & Repo Links |
 | :--- | :--- | :--- | :--- |
-| **`Sof-ESL`** | Next.js 14, TypeScript, Supabase, Tailwind, Capacitor | Enterprise local-first ESL placement engine, adaptive scoring model, local storage + cloud sync, admin security gate. | [View Repo](https://github.com/meganxo/Sof-ESL) |
-| **`tyse-core`** | Node.js, React, Gemini 1.5 Pro, Supabase PGVector | Multi-platform narrative monorepo, Entity Matrix relational governance layer, vector-search RAG reasoning, monorepo worker queues. | [View Repo](https://github.com/LTCCSLLC/tyse) |
+| **`Sof-ESL`** | Next.js 14, TypeScript, Supabase, Tailwind, Capacitor | Enterprise local-first ESL placement engine, adaptive scoring model, local storage + cloud sync, admin security gate. | 🚀 [Live Demo](https://sof-esl.vercel.app) \| [GitHub Repo](https://github.com/meganxo/Sof-ESL) |
+| **`tyse-core`** | Node.js, React, Gemini 1.5 Pro, Supabase PGVector | Multi-platform narrative monorepo, Entity Matrix relational governance layer, vector-search RAG reasoning, monorepo worker queues. | 🚀 [Live Demo](https://tyse.vercel.app) \| [GitHub Repo](https://github.com/LTCCSLLC/tyse) |
 
 ### 2. Native iOS, DSP & Optics Physics
-| Project | Tech Stack | Architectural Highlights | Repository Link |
+| Project | Tech Stack | Architectural Highlights | Live Production & Repo Links |
 | :--- | :--- | :--- | :--- |
-| **`Fame-AES`** | Swift 5.9, Native iOS/iPadOS, AES-256 GCM | Sub-5ms hardware audio pipeline, VibeTune pitch correction DSP, atomic CloudKit storage, TestFlight CI/CD automation. | [View Repo](https://github.com/meganxo/Fame-AES) |
-| **`ink_u`** | Swift 5.9, Metal GPU Physics, PencilKit, ARKit | High-fidelity iPadOS tattoo simulator, Metal dermis ink diffusion shaders, Apple Pencil pressure curves, ARKit 3D body placement. | [View Repo](https://github.com/meganbradford/ink_u) |
-| **`TrendFilterApp`** | SwiftUI, CIFilter, Python 3.11 FastAPI, Cloud Run | Cinematic optics & vision engine, vintage lens falloff models, FastAPI ML curve synthesis on Google Cloud Run serverless. | [View Repo](https://github.com/meganxo/trendlab_cam) |
+| **`Fame-AES`** | Swift 5.9, Native iOS/iPadOS, AES-256 GCM | Sub-5ms hardware audio pipeline, VibeTune pitch correction DSP, atomic CloudKit storage, TestFlight CI/CD automation. | 📱 [Xcode Project](file:///Users/meganbradford/Documents/GitHub/02_PROJECT_HEADBAND/02-HEADBAND-INTERFACE/Fame-AES/Fame-AES/Fame_AES.xcodeproj) \| [GitHub Repo](https://github.com/meganxo/Fame-AES) |
+| **`ink_u`** | Swift 5.9, Metal GPU Physics, PencilKit, ARKit | High-fidelity iPadOS tattoo simulator, Metal dermis ink diffusion shaders, Apple Pencil pressure curves, ARKit 3D body placement. | 📱 [Xcode Project](file:///Users/meganbradford/Documents/GitHub/02_PROJECT_HEADBAND/ink_u/inku.xcodeproj) \| [GitHub Repo](https://github.com/meganbradford/ink_u) |
+| **`TrendFilterApp`** | SwiftUI, CIFilter, Python 3.11 FastAPI, Cloud Run | Cinematic optics & vision engine, vintage lens falloff models, FastAPI ML curve synthesis on Google Cloud Run serverless. | ⚙️ [Vision Engine Docs](https://vision-engine-534898804683.us-central1.run.app/docs) \| [GitHub Repo](https://github.com/meganxo/trendlab_cam) |
 
 ### 3. Commercial Web Applications & Operations
-| Project | Tech Stack | Architectural Highlights | Repository Link |
+| Project | Tech Stack | Architectural Highlights | Live Production & Repo Links |
 | :--- | :--- | :--- | :--- |
-| **`onesourcewireless`** | React 19, TypeScript, React Router 7, Vitest | Commercial telecom web platform & partner portal, build-time component locking integrity verification script. | [View Repo](https://github.com/meganxo/onesource-wireless) |
-| **`letstalkccs.com`** | React 19, Cloudflare Pages, Supabase Webhooks | Live website application featuring Cloudflare edge deployment, dynamic intake forms, and a 7-stage cognitive lead triage engine. | [View Repo](https://github.com/meganxo/letstalkccs-landing) |
-| **`green-gurus`** | React, TypeScript, Supabase, Tailwind | Sustainable workforce & operations management platform with role-based access control (RBAC) and Vercel Speed Insights. | [View Repo](https://github.com/meganxo/green-gurus) |
+| **`onesourcewireless`** | React 19, TypeScript, React Router 7, Vitest | Commercial telecom web platform & partner portal, build-time component locking integrity verification script. | 💼 Commercial Client Site \| [GitHub Repo](https://github.com/meganxo/onesource-wireless) |
+| **`letstalkccs.com`** | React 19, Cloudflare Pages, Supabase Webhooks | Live website application featuring Cloudflare edge deployment, dynamic intake forms, and a 7-stage cognitive lead triage engine. | 🌐 [letstalkccs.com](https://letstalkccs.com) \| [GitHub Repo](https://github.com/meganxo/letstalkccs-landing) |
+| **`green-gurus`** | React, TypeScript, Supabase, Tailwind | Sustainable workforce & operations management platform with role-based access control (RBAC) and Vercel Speed Insights. | 🚀 [Live Demo](https://green-gurus.vercel.app) \| [GitHub Repo](https://github.com/meganxo/green-gurus) |
 
 ---
 
