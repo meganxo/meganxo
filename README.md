@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I am a **Founder, Writer, Technical Project Manager, and AI-Augmented Software Engineer** with a multi-faceted background spanning brand strategy, marketing leadership, and high-velocity systems engineering. By combining **commercial acumen and product management rigor** (scrum, PR resolution, system architecture, component locking protocols) with **AI-native software execution** (Next.js 14, Swift native iOS/DSP, Python, Supabase), I design, build, and scale systems at 10x speed.
+I am a **Founder, Writer, Technical Project Manager, and AI-Augmented Software Engineer** with a multi-faceted background spanning brand strategy, marketing leadership, and high-velocity systems engineering. By combining **commercial acumen and product management rigor** (scrum, PR resolution sweeps, system architecture, component locking protocols) with **AI-native software execution** (Next.js 14, Swift native iOS/DSP, Python, Supabase), I design, build, and scale production systems at 10x speed.
 
 - 🌐 **Founder & Strategic Consulting:** Outside of software engineering, I consult for brands and enterprise companies on brand positioning, marketing strategy, creative writing, and digital execution via [letstalkccs.com](https://letstalkccs.com).
 - 🛠️ **Engineering Specializations:** Full-Stack Web Architecture, Native iOS Audio/Graphics (Swift, Metal, PencilKit), AI/Agentic Engine Design, and Security-First Infrastructure.
@@ -25,7 +25,7 @@ I am a **Founder, Writer, Technical Project Manager, and AI-Augmented Software E
 
 ## 🏆 Featured Engineering Portfolio
 
-Here are 8 curated showcase implementations organized by technical domain:
+Here are 8 curated showcase implementations demonstrating full-stack web, native mobile security, AI infrastructure, and commercial software builds:
 
 ### 1. Core IP & Full-Stack Web Architecture
 | Project | Tech Stack | Architectural Highlights | Repository Link |
@@ -40,12 +40,12 @@ Here are 8 curated showcase implementations organized by technical domain:
 | **`ink_u`** | Swift 5.9, Metal GPU Physics, PencilKit, ARKit | High-fidelity iPadOS tattoo simulator, Metal dermis ink diffusion shaders, Apple Pencil pressure curves, ARKit 3D body placement. | [View Repo](https://github.com/meganbradford/ink_u) |
 | **`TrendFilterApp`** | SwiftUI, CIFilter, Python 3.11 FastAPI, Cloud Run | Cinematic optics & vision engine, vintage lens falloff models, FastAPI ML curve synthesis on Google Cloud Run serverless. | [View Repo](https://github.com/meganxo/trendlab_cam) |
 
-### 3. Commercial Client Systems & DevOps
+### 3. Commercial Web Applications & Operations
 | Project | Tech Stack | Architectural Highlights | Repository Link |
 | :--- | :--- | :--- | :--- |
 | **`onesourcewireless`** | React 19, TypeScript, React Router 7, Vitest | Commercial telecom web platform & partner portal, build-time component locking integrity verification script. | [View Repo](https://github.com/meganxo/onesource-wireless) |
-| **`letstalkccs-landing`** | React 19, Cloudflare Pages, Supabase Webhooks | Enterprise consultancy gateway featuring a 7-stage cognitive AI lead triage loop, Supabase Edge Functions, and vault secret management. | [View Repo](https://github.com/meganxo/letstalkccs-landing) |
-| **`mxo-build-dashboard`** | React, Node.js, Webhooks | Operational DevOps build tracking dashboard, webhook intake, real-time build telemetry stream. | [View Repo](https://github.com/meganxo/mxo_build_dashboard) |
+| **`letstalkccs.com`** | React 19, Cloudflare Pages, Supabase Webhooks | Live website application featuring Cloudflare edge deployment, dynamic intake forms, and a 7-stage cognitive lead triage engine. | [View Repo](https://github.com/meganxo/letstalkccs-landing) |
+| **`green-gurus`** | React, TypeScript, Supabase, Tailwind | Sustainable workforce & operations management platform with role-based access control (RBAC) and Vercel Speed Insights. | [View Repo](https://github.com/meganxo/green-gurus) |
 
 ---
 
