@@ -1,7 +1,7 @@
 # Hi, I'm Megan Bradford 👋
 
-### Technical Project Manager & AI-Augmented Software Engineer
-*Combining PM Execution Rigor with High-Velocity Full-Stack & Native iOS Engineering | Open to Engineering & Technical PM Roles*
+### Founder, Creator & Technical PM / AI-Augmented Software Engineer
+*Bridging Strategic Marketing, Brand Consulting, & Product Management with High-Velocity Full-Stack & Native iOS Engineering*
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript)
@@ -14,8 +14,9 @@
 
 ## 🚀 About Me
 
-I am a **Technical Project Manager and AI-Augmented Software Engineer** with a proven track record of driving complex technical roadmaps from concept to production. By combining **Project Management execution rigor** (scrum, PR resolution, system architecture, component locking protocols) with **high-velocity AI-native engineering** (Next.js 14, Swift native iOS/DSP, Python, Supabase), I build and ship production-grade systems at 10x speed.
+I am a **Founder, Writer, Technical Project Manager, and AI-Augmented Software Engineer** with a multi-faceted background spanning brand strategy, marketing leadership, and high-velocity systems engineering. By combining **commercial acumen and product management rigor** (scrum, PR resolution, system architecture, component locking protocols) with **AI-native software execution** (Next.js 14, Swift native iOS/DSP, Python, Supabase), I design, build, and scale systems at 10x speed.
 
+- 🌐 **Founder & Strategic Consulting:** Outside of software engineering, I consult for brands and enterprise companies on brand positioning, marketing strategy, creative writing, and digital execution via [letstalkccs.com](https://letstalkccs.com).
 - 🛠️ **Engineering Specializations:** Full-Stack Web Architecture, Native iOS Audio/Graphics (Swift, Metal, PencilKit), AI/Agentic Engine Design, and Security-First Infrastructure.
 - 🔒 **Security Standards:** All repositories follow strict **Security First Protocols** — featuring AES-256-GCM authenticated encryption, dynamic vault secret isolation, and YubiKey SSH cryptographic commit signing.
 - ⚡ **AI-Native Velocity:** Expert at orchestrating multi-agent AI workflows (Claude, Gemini, Cursor, AGY, Jules) for rapid engineering execution, code audits, and automated test verifications.
@@ -24,17 +25,26 @@ I am a **Technical Project Manager and AI-Augmented Software Engineer** with a p
 
 ## 🏆 Featured Engineering Portfolio
 
-Here are 8 curated showcase implementations demonstrating full-stack web, native mobile security, AI infrastructure, and commercial software builds:
+Here are 8 curated showcase implementations organized by technical domain:
 
+### 1. Core IP & Full-Stack Web Architecture
 | Project | Tech Stack | Architectural Highlights | Repository Link |
 | :--- | :--- | :--- | :--- |
 | **`Sof-ESL`** | Next.js 14, TypeScript, Supabase, Tailwind, Capacitor | Enterprise local-first ESL placement engine, adaptive scoring model, local storage + cloud sync, admin security gate. | [View Repo](https://github.com/meganxo/Sof-ESL) |
-| **`Fame-AES`** | Swift 5.9, Native iOS/iPadOS, AES-256 GCM | Sub-5ms hardware audio pipeline, VibeTune pitch correction DSP, atomic CloudKit storage, TestFlight CI/CD automation. | [View Repo](https://github.com/meganxo/Fame-AES) |
 | **`tyse-core`** | Node.js, React, Gemini 1.5 Pro, Supabase PGVector | Multi-platform narrative monorepo, Entity Matrix relational governance layer, vector-search RAG reasoning, monorepo worker queues. | [View Repo](https://github.com/LTCCSLLC/tyse) |
+
+### 2. Native iOS, DSP & Optics Physics
+| Project | Tech Stack | Architectural Highlights | Repository Link |
+| :--- | :--- | :--- | :--- |
+| **`Fame-AES`** | Swift 5.9, Native iOS/iPadOS, AES-256 GCM | Sub-5ms hardware audio pipeline, VibeTune pitch correction DSP, atomic CloudKit storage, TestFlight CI/CD automation. | [View Repo](https://github.com/meganxo/Fame-AES) |
 | **`ink_u`** | Swift 5.9, Metal GPU Physics, PencilKit, ARKit | High-fidelity iPadOS tattoo simulator, Metal dermis ink diffusion shaders, Apple Pencil pressure curves, ARKit 3D body placement. | [View Repo](https://github.com/meganbradford/ink_u) |
 | **`TrendFilterApp`** | SwiftUI, CIFilter, Python 3.11 FastAPI, Cloud Run | Cinematic optics & vision engine, vintage lens falloff models, FastAPI ML curve synthesis on Google Cloud Run serverless. | [View Repo](https://github.com/meganxo/trendlab_cam) |
+
+### 3. Commercial Client Systems & DevOps
+| Project | Tech Stack | Architectural Highlights | Repository Link |
+| :--- | :--- | :--- | :--- |
 | **`onesourcewireless`** | React 19, TypeScript, React Router 7, Vitest | Commercial telecom web platform & partner portal, build-time component locking integrity verification script. | [View Repo](https://github.com/meganxo/onesource-wireless) |
-| **`letstalkccs-landing`** | React 19, Cloudflare Pages, Supabase Webhooks | Enterprise consultancy gateway featuring a 7-stage cognitive AI lead triage loop, Supabase Edge Functions, and vault-isolated secret management. | [View Repo](https://github.com/meganxo/letstalkccs-landing) |
+| **`letstalkccs-landing`** | React 19, Cloudflare Pages, Supabase Webhooks | Enterprise consultancy gateway featuring a 7-stage cognitive AI lead triage loop, Supabase Edge Functions, and vault secret management. | [View Repo](https://github.com/meganxo/letstalkccs-landing) |
 | **`mxo-build-dashboard`** | React, Node.js, Webhooks | Operational DevOps build tracking dashboard, webhook intake, real-time build telemetry stream. | [View Repo](https://github.com/meganxo/mxo_build_dashboard) |
 
 ---
@@ -55,7 +65,7 @@ PM & AI Tools:   Jira, Agile/Scrum, Git/GitHub, Claude, Gemini 1.5 Pro, Cursor, 
 
 ## 💡 Engineering & Leadership Philosophy
 
-1. **PM Execution & Engineering Rigor:** Combining clear roadmapping, PR resolution sweeps, and component locking protocols to ensure zero-regression releases.
+1. **PM Execution & Commercial Rigor:** Combining clear roadmapping, PR resolution sweeps, and component locking protocols to ensure zero-regression releases backed by brand vision.
 2. **Security First Always:** Never hardcode secrets. All deployment credentials are isolated in encrypted environment vaults and secure keychains, database queries use parameterized RPC calls, and commits are cryptographically signed with YubiKey SSH keys.
 3. **AI-Augmented Superpowers:** Using multi-agent AI workflows to rapidly prototype, write unit tests, and audit edge cases, while maintaining complete architectural authority and code quality control.
 
@@ -63,8 +73,8 @@ PM & AI Tools:   Jira, Agile/Scrum, Git/GitHub, Claude, Gemini 1.5 Pro, Cursor, 
 
 ## 📫 Connect & Contact
 
-- 📧 **Email:** [megan@letstalkccs.com](mailto:megan@letstalkccs.com)
-- 🌐 **Portfolio Site:** [letstalkccs.com](https://letstalkccs.com)
+- 🌐 **Founder & Strategic Consulting Hub:** [letstalkccs.com](https://letstalkccs.com) *(Brand Strategy, Creative Works, Marketing & Consulting)*
+- 📧 **Direct Contact:** [megan@letstalkccs.com](mailto:megan@letstalkccs.com)
 
 ---
 *Driven by high-velocity execution, architectural clarity, and security-first engineering.*
